@@ -1,0 +1,11 @@
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\bin\Debug\Prac06-02-c.exe.config
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\bin\Debug\Prac06-02-c.exe
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\bin\Debug\Prac06-02-c.pdb
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\obj\Debug\Prac06-02-c.csproj.AssemblyReference.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\obj\Debug\Prac06-02-c.csproj.SuggestedBindingRedirects.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\obj\Debug\Prac06_02_c.Form1.resources
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\obj\Debug\Prac06_02_c.Properties.Resources.resources
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\obj\Debug\Prac06-02-c.csproj.GenerateResource.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\obj\Debug\Prac06-02-c.csproj.CoreCompileInputs.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\obj\Debug\Prac06-02-c.exe
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-02-c\obj\Debug\Prac06-02-c.pdb

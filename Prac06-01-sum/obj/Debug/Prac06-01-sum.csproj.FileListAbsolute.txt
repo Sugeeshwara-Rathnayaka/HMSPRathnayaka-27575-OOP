@@ -1,0 +1,11 @@
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\bin\Debug\Prac06-01-sum.exe.config
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\bin\Debug\Prac06-01-sum.exe
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\bin\Debug\Prac06-01-sum.pdb
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\obj\Debug\Prac06-01-sum.csproj.AssemblyReference.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\obj\Debug\Prac06-01-sum.csproj.SuggestedBindingRedirects.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\obj\Debug\Prac06_01_sum.Form1.resources
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\obj\Debug\Prac06_01_sum.Properties.Resources.resources
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\obj\Debug\Prac06-01-sum.csproj.GenerateResource.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\obj\Debug\Prac06-01-sum.csproj.CoreCompileInputs.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\obj\Debug\Prac06-01-sum.exe
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\LAB\Prac06-01-sum\obj\Debug\Prac06-01-sum.pdb
