@@ -1,0 +1,12 @@
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\bin\Debug\Loging Form.exe.config
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\bin\Debug\Loging Form.exe
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\bin\Debug\Loging Form.pdb
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging Form.csproj.AssemblyReference.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging Form.csproj.SuggestedBindingRedirects.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging_Form.Form1.resources
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging_Form.Home.resources
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging_Form.Properties.Resources.resources
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging Form.csproj.GenerateResource.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging Form.csproj.CoreCompileInputs.cache
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging Form.exe
+F:\C#\Test01\Form App 20.01.2023\Extra class 21.07.2023\Loging Form\obj\Debug\Loging Form.pdb
